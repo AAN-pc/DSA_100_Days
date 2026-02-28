@@ -1,0 +1,6 @@
+#include <stdio.h>
+
+int main(){
+    int a[]={1,2,3}, b[]={4,5};
+    printf("Intersection concept: use two pointers switching lists");
+}
