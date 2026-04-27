@@ -26,7 +26,7 @@ Prepare for coding interviews
 │
 └── Day100/
     ├── q1.c
-    ├── q2.c
+    ├── q2.cc
   
 - File Naming Convention
 Each folder represents a day: Day1, Day2, ..., Day100
@@ -46,6 +46,7 @@ Searching & Sorting
 Trees
 Graphs
 Hashing
+
 
 
 
